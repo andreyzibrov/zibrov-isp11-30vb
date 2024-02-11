@@ -1,7 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
-![image](https://github.com/andreyzibrov/zibrov-isp11-30vb/assets/159270137/d63408be-706c-4bf0-8237-3b4f5013b559)
+![вид_экрана](https://github.com/andreyzibrov/zibrov-isp11-30vb/assets/159270137/21d772b1-6c27-4268-b609-58524e43f6e5)
 
 ## Getting Started
 
